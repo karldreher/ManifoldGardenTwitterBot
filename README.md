@@ -23,4 +23,4 @@ From the project directory, run:
 docker-compose up -d
 ```
 
-Assuming your MAnifest Garden screenshot directory is in the typical place `($userprofile\AppData\LocalLow\William Chyr Studio\Manifold Garden\Pictures)`, run Manifest Garden, solve some puzzles and take some fabulous screenshots!  Manifest Garden Twitter Bot will continue to run in the background and upload screenshots to Twitter while you do. 
+Assuming your Manifest Garden screenshot directory is in the typical place `($userprofile\AppData\LocalLow\William Chyr Studio\Manifold Garden\Pictures)`, run Manifest Garden, solve some puzzles and take some fabulous screenshots!  Manifest Garden Twitter Bot will continue to run in the background and upload screenshots to Twitter while you do. 
