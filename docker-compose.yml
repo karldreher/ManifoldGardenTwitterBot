@@ -1,9 +1,9 @@
-services:
 version: '3'
 services:
   app:
     build: .
-    mem_limit: 32m
+    mem_limit: 256m
     volumes:
       - ${userprofile}\AppData\LocalLow\William Chyr Studio\Manifold Garden\Pictures:/app/images
+      - ./config.js:/app/config.js:ro
     restart: always

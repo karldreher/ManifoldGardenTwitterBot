@@ -1,8 +1,8 @@
 FROM node:15.5.0-buster-slim
 
 WORKDIR /app
-COPY config.js .
-COPY random-image-tweet.js .
+COPY random-image-tweet.js package.json package-lock.json ./
 
-RUN npm install twit extfs --save
+
+RUN npm ci
 CMD ["node", "random-image-tweet.js"]
