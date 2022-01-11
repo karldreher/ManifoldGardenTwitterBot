@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/karldreher/ManifestGardenTwitterBot#readme",
   "dependencies": {
+    "extfs": "^0.0.7",
     "twit": "^2.2.11"
   }
 }
