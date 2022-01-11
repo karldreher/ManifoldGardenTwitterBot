@@ -1,3 +1,5 @@
+  //Note: consumer_key and consumer_secret are now referred to as "API Key" and "API Secret" respectively in Twitter documentation.
+  //However, the names of the keys are required by npm twit package.  Do not change the names, only the values. 
   const config = {
     consumer_key:         'XXXXX',
     consumer_secret:      'XXXXX',

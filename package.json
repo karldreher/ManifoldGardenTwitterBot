@@ -1,0 +1,22 @@
+{
+  "name": "manifestgardentwitterbot",
+  "version": "1.0.0",
+  "description": "This repository hosts the code for the Twitter bot [Just Manifold Garden Screenshots](https://twitter.com/MGardenBot).",
+  "main": "random-image-tweet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karldreher/ManifestGardenTwitterBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karldreher/ManifestGardenTwitterBot/issues"
+  },
+  "homepage": "https://github.com/karldreher/ManifestGardenTwitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
