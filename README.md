@@ -1,8 +1,8 @@
-# ManifestGardenTwitterBot
+# ManifoldGardenTwitterBot
 
 This repository hosts the code for the Twitter bot [Just Manifold Garden Screenshots](https://twitter.com/MGardenBot).  
 
-Manifest Garden is a really cool game!  This project is a way to post screenshots and share them, because taking screenshots is one of the best parts of the game.  
+Manifold Garden is a really cool game!  This project is a way to post screenshots and share them, because taking screenshots is one of the best parts of the game.  
 
 ## Setup and operation
 
@@ -23,4 +23,4 @@ From the project directory, run:
 docker-compose up -d
 ```
 
-Assuming your Manifest Garden screenshot directory is in the typical place `($userprofile\AppData\LocalLow\William Chyr Studio\Manifold Garden\Pictures)`, run Manifest Garden, solve some puzzles and take some fabulous screenshots!  Manifest Garden Twitter Bot will continue to run in the background and upload screenshots to Twitter while you do. 
+Assuming your Manifold Garden screenshot directory is in the typical place `($userprofile\AppData\LocalLow\William Chyr Studio\Manifold Garden\Pictures)`, run Manifold Garden, solve some puzzles and take some fabulous screenshots!  Manifold Garden Twitter Bot will continue to run in the background and upload screenshots to Twitter while you do. 
