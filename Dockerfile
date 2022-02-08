@@ -5,4 +5,4 @@ COPY random-image-tweet.js package.json package-lock.json ./
 
 
 RUN npm ci
-CMD ["node", "random-image-tweet.js"]
+CMD ["node", "index.js"]
