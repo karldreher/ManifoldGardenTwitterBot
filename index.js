@@ -87,3 +87,5 @@ setInterval(function () {
   }
   logcounter += 1;
 }, 10000);
+
+module.exports = {deleteImage}
