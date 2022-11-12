@@ -1,6 +1,12 @@
+| :warning: Deprecation Notice          |
+|:------------------------------------------|
+| This project has been deprecated.  As of this point the Twitter account associated with this bot has been removed/disabled, and no new development of *this* project will occur.  There are a number of reasons for this.  This repository will remain intact, to keep the sourcecode available for reference.   This project may see new life in a more adaptable, less Twitter/Manifold Garden focused project in the future.
+  |
+
+
 # ManifoldGardenTwitterBot
 
-This repository hosts the code for the Twitter bot [Just Manifold Garden Screenshots](https://twitter.com/MGardenBot).  
+This repository hosts the code for the (Former) Twitter bot **Just Manifold Garden Screenshots**
 
 Manifold Garden is a really cool game!  This project is a way to post screenshots and share them, because taking screenshots is one of the best parts of the game.  
 
