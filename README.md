@@ -1,7 +1,6 @@
 | :warning: Deprecation Notice          |
 |:------------------------------------------|
-| This project has been deprecated.  As of this point the Twitter account associated with this bot has been removed/disabled, and no new development of *this* project will occur.  There are a number of reasons for this.  This repository will remain intact, to keep the sourcecode available for reference.   This project may see new life in a more adaptable, less Twitter/Manifold Garden focused project in the future.
-  |
+| This project has been deprecated.  As of this point the Twitter account associated with this bot has been removed/disabled, and no new development of *this* project will occur.  There are a number of reasons for this.  This repository will remain intact, to keep the sourcecode available for reference.   This project may see new life in a more adaptable, less Twitter/Manifold Garden focused project in the future.|
 
 
 # ManifoldGardenTwitterBot
